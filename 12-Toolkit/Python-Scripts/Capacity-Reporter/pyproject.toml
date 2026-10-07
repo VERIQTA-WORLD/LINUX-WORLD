@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-capacity-reporter"
-version = "1.0.0"
-description = "Builds a JSON capacity snapshot for CPU, memory, and filesystems."
-requires-python = ">=3.10"

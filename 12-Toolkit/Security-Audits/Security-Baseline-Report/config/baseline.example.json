@@ -1,8 +1,0 @@
-{
-  "profile": "educational",
-  "checks": [
-    "uid0_accounts",
-    "kernel",
-    "euid"
-  ]
-}

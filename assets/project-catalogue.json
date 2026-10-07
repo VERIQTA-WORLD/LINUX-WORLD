@@ -1,0 +1,182 @@
+[
+  {
+    "project": "linux-web-server",
+    "level": "junior",
+    "path": "03-projects/01-junior/01-linux-web-server",
+    "goal": "Configure a web service with permissions, logging and verified network access."
+  },
+  {
+    "project": "automated-file-backup-system",
+    "level": "junior",
+    "path": "03-projects/01-junior/02-automated-file-backup-system",
+    "goal": "Build scheduled backups and prove that selected files can be restored."
+  },
+  {
+    "project": "server-health-dashboard",
+    "level": "junior",
+    "path": "03-projects/01-junior/03-server-health-dashboard",
+    "goal": "Collect Linux health information and present useful service and resource status."
+  },
+  {
+    "project": "team-file-sharing-server",
+    "level": "junior",
+    "path": "03-projects/01-junior/04-team-file-sharing-server",
+    "goal": "Configure shared directories, group access and tested permissions."
+  },
+  {
+    "project": "secure-ssh-administration-server",
+    "level": "junior",
+    "path": "03-projects/01-junior/05-secure-ssh-administration-server",
+    "goal": "Configure key-based access, restricted privileges and access verification."
+  },
+  {
+    "project": "systemd-application-service",
+    "level": "junior",
+    "path": "03-projects/01-junior/06-systemd-application-service",
+    "goal": "Run an application as a managed service with restart handling and logs."
+  },
+  {
+    "project": "log-analysis-toolkit",
+    "level": "junior",
+    "path": "03-projects/01-junior/07-log-analysis-toolkit",
+    "goal": "Build scripts that filter, summarise and explain sample service logs."
+  },
+  {
+    "project": "scheduled-maintenance-toolkit",
+    "level": "junior",
+    "path": "03-projects/01-junior/08-scheduled-maintenance-toolkit",
+    "goal": "Automate bounded maintenance tasks with error handling and audit output."
+  },
+  {
+    "project": "disk-usage-reporting-service",
+    "level": "junior",
+    "path": "03-projects/01-junior/09-disk-usage-reporting-service",
+    "goal": "Report filesystem usage and validate alerts using controlled test data."
+  },
+  {
+    "project": "linux-server-setup-automation",
+    "level": "junior",
+    "path": "03-projects/01-junior/10-linux-server-setup-automation",
+    "goal": "Automate a reproducible server setup and verify that reruns behave safely."
+  },
+  {
+    "project": "application-server-with-automated-deployment",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/01-application-server-with-automated-deployment",
+    "goal": "Deploy an application through tested scripts with service management and rollback."
+  },
+  {
+    "project": "centralised-linux-logging-system",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/02-centralised-linux-logging-system",
+    "goal": "Collect logs from multiple lab servers and verify search, retention and access."
+  },
+  {
+    "project": "secure-multi-server-administration",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/03-secure-multi-server-administration",
+    "goal": "Manage multiple Linux servers with controlled access and configuration automation."
+  },
+  {
+    "project": "reverse-proxy-and-load-balancing-lab",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/04-reverse-proxy-and-load-balancing-lab",
+    "goal": "Route requests to application backends and investigate backend failures."
+  },
+  {
+    "project": "linux-monitoring-and-alerting-system",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/05-linux-monitoring-and-alerting-system",
+    "goal": "Monitor service health and resource pressure with tested alerts."
+  },
+  {
+    "project": "incremental-backup-and-restore-system",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/06-incremental-backup-and-restore-system",
+    "goal": "Build incremental backups, retention and independently verified restoration."
+  },
+  {
+    "project": "linux-storage-management-lab",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/07-linux-storage-management-lab",
+    "goal": "Configure lab storage, logical volumes and recover from controlled storage problems."
+  },
+  {
+    "project": "server-configuration-management",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/08-server-configuration-management",
+    "goal": "Maintain consistent server configuration and investigate intentional drift."
+  },
+  {
+    "project": "linux-network-diagnostics-service",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/09-linux-network-diagnostics-service",
+    "goal": "Collect network evidence and generate explainable diagnostic reports."
+  },
+  {
+    "project": "application-release-and-rollback-system",
+    "level": "mid-level",
+    "path": "03-projects/02-mid-level/10-application-release-and-rollback-system",
+    "goal": "Automate application releases with health verification and a tested rollback path."
+  },
+  {
+    "project": "highly-available-linux-service",
+    "level": "senior",
+    "path": "03-projects/03-senior/01-highly-available-linux-service",
+    "goal": "Design and test a bounded multi-server service with explicit failure and recovery behaviour."
+  },
+  {
+    "project": "linux-disaster-recovery-system",
+    "level": "senior",
+    "path": "03-projects/03-senior/02-linux-disaster-recovery-system",
+    "goal": "Restore a stateful service into an isolated environment and measure recovery outcomes."
+  },
+  {
+    "project": "performance-investigation-and-optimisation",
+    "level": "senior",
+    "path": "03-projects/03-senior/03-performance-investigation-and-optimisation",
+    "goal": "Load-test a Linux application, diagnose a bottleneck and compare results after a change."
+  },
+  {
+    "project": "controlled-patching-and-maintenance",
+    "level": "senior",
+    "path": "03-projects/03-senior/04-controlled-patching-and-maintenance",
+    "goal": "Stage server updates, verify service health and document recovery options."
+  },
+  {
+    "project": "linux-security-auditing-platform",
+    "level": "senior",
+    "path": "03-projects/03-senior/05-linux-security-auditing-platform",
+    "goal": "Collect configuration and access evidence with restricted privileges and reviewed findings."
+  },
+  {
+    "project": "linux-capacity-and-resource-management",
+    "level": "senior",
+    "path": "03-projects/03-senior/06-linux-capacity-and-resource-management",
+    "goal": "Measure demand, test resource controls and explain capacity assumptions."
+  },
+  {
+    "project": "linux-incident-investigation-lab",
+    "level": "senior",
+    "path": "03-projects/03-senior/07-linux-incident-investigation-lab",
+    "goal": "Build a multi-server environment with controlled incidents and evidence-based recovery."
+  },
+  {
+    "project": "resilient-background-job-system",
+    "level": "senior",
+    "path": "03-projects/03-senior/08-resilient-background-job-system",
+    "goal": "Operate scheduled jobs with locks, retries, observability and recovery from interruption."
+  },
+  {
+    "project": "linux-service-isolation-lab",
+    "level": "senior",
+    "path": "03-projects/03-senior/09-linux-service-isolation-lab",
+    "goal": "Explore process and resource isolation with namespaces, cgroups and verified boundaries."
+  },
+  {
+    "project": "production-style-linux-operations-environment",
+    "level": "senior",
+    "path": "03-projects/03-senior/10-production-style-linux-operations-environment",
+    "goal": "Combine deployment, access management, monitoring, backups and tested incident procedures."
+  }
+]

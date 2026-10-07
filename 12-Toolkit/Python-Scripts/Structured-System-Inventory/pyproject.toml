@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-structured-system-inventory"
-version = "1.0.0"
-description = "Collects a structured local system inventory."
-requires-python = ">=3.10"

@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-incident-timeline-builder"
-version = "1.0.0"
-description = "Normalizes timestamped CSV events into an ordered incident timeline."
-requires-python = ">=3.10"

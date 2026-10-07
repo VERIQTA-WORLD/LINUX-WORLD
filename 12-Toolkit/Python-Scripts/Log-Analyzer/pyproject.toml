@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-log-analyzer"
-version = "1.0.0"
-description = "Counts log severities and extracts a bounded set of notable events."
-requires-python = ">=3.10"

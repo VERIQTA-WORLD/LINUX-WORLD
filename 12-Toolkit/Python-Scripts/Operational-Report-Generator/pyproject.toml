@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-operational-report-generator"
-version = "1.0.0"
-description = "Turns structured operational facts into a Markdown report."
-requires-python = ">=3.10"

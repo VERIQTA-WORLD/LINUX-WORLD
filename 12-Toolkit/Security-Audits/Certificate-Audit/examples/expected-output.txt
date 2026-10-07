@@ -1,2 +1,0 @@
-Review result for Certificate Audit.
-A finding is evidence for review, not proof of compromise or automatic authorization to remediate.

@@ -1,4 +1,0 @@
-# Collection limits
-SINCE=-1 hour
-MAX_LINES=2000
-REDACT=true

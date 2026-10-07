@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
-  <title id="title">Linux World banner template</title>
-  <desc id="desc">Template showing the safe title and subtitle areas for a Linux World repository banner.</desc>
-  <rect width="1600" height="500" fill="#ffffff"/>
-  <rect x="80" y="60" width="1440" height="380" fill="none" stroke="#666666" stroke-dasharray="12 8"/>
-  <text x="120" y="225" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#111111">SECTION TITLE</text>
-  <text x="120" y="300" font-family="Arial, sans-serif" font-size="32" fill="#333333">Replace with one short purpose statement</text>
-</svg>

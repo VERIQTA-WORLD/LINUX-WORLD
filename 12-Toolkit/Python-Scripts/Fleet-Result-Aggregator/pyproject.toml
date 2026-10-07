@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-fleet-result-aggregator"
-version = "1.0.0"
-description = "Aggregates JSON results produced by multiple hosts."
-requires-python = ">=3.10"

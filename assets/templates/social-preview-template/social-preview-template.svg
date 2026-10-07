@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">Linux World social preview template</title>
-  <desc id="desc">Template with a safe central area for a repository title and short description.</desc>
-  <rect width="1280" height="640" fill="#ffffff"/>
-  <rect x="96" y="80" width="1088" height="480" fill="none" stroke="#666666" stroke-dasharray="12 8"/>
-  <text x="128" y="285" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#111111">LINUX WORLD</text>
-  <text x="128" y="360" font-family="Arial, sans-serif" font-size="32" fill="#333333">Replace with a short repository description</text>
-</svg>

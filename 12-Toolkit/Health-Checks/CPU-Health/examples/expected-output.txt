@@ -1,4 +1,0 @@
-OK: representative cpu health result
-WARNING: threshold crossed but service may still operate
-CRITICAL: critical threshold crossed
-UNKNOWN: evidence is unavailable or invalid

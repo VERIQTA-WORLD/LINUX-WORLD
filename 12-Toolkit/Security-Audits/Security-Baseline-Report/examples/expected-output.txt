@@ -1,2 +1,0 @@
-Review result for Security Baseline Report.
-A finding is evidence for review, not proof of compromise or automatic authorization to remediate.

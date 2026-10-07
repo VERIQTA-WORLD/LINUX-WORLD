@@ -1,5 +1,0 @@
-# Replace every placeholder before use.
-name = example
-owner = team-name
-review_date = YYYY-MM-DD
-timeout_seconds = 30

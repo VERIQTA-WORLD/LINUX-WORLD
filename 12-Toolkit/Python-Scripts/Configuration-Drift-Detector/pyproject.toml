@@ -1,9 +1,0 @@
-[build-system]
-requires = []
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "linux-world-configuration-drift-detector"
-version = "1.0.0"
-description = "Compares expected and observed configuration trees using SHA-256."
-requires-python = ">=3.10"

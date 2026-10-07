@@ -1,4 +1,0 @@
-2026-01-15T10:00:00Z INFO api service started
-2026-01-15T10:03:00Z WARNING queue depth crossed warning threshold
-2026-01-15T10:04:00Z ERROR database connection timeout
-2026-01-15T10:05:00Z INFO connection recovered

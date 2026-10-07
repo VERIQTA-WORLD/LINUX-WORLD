@@ -1,4 +1,0 @@
-Representative output for Configuration Comparison.
-
-Run ./configuration-comparison.sh --help, then execute only against an approved lab target.
-Output varies by distribution, kernel, service manager, permissions, and host state.
